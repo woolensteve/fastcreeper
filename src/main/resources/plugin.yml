@@ -1,0 +1,7 @@
+name: FastCreeper
+version: 1.0.0
+main: me.aurynth.fastcreeper.FastCreeper
+api-version: '1.21'
+author: Lakshay
+website: https://github.com/Aurynth/FastCreeper
+description: Fast Creeper Fuse for PvP Servers.
