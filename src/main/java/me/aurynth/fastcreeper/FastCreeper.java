@@ -37,7 +37,6 @@ public class FastCreeper extends JavaPlugin implements Listener {
             }
 
             // Normal creeper, not charged
-            creeper.setMaxFuseTicks(80); // 4 seconds
             creeper.ignite();
         }, 1L);
     }
